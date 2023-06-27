@@ -6,11 +6,7 @@ Unity is a very powerful game platform and requires lots of commitment
 to study its rich capabilities that would take almost a whole academic
 program to master it, we will approach it from a sound designer approach
 where we will be able to communicate with SuperCollider via
-OSC messages to build interactive audio-visual applications.
-
-The code is available already provided in this week's folder. In the
-project I have already loaded `extOSC` and started making some sound.
-Let's take it a bit slow and take a look on the OSC implementation
-inside our script.
+OSC messages to build interactive audio-visual applications. The project uses `extOSC` to communicate with SuperCollider.
+Let's take it a bit slow and take a look on the OSC implementation inside our script.
 
 Open [this tutorial](./Unity-SuperCollider.md)
